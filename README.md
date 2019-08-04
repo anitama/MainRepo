@@ -1,2 +1,1 @@
-# MainRepo
-I am the Main Repo ...put only stable code
+This main Repo is created by Anita and please push only stable code after the review
